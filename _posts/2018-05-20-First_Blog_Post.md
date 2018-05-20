@@ -1,3 +1,8 @@
+---
+title: "First Blog Post"
+date: 2018-05-20
+---
+
 # First Blog Post
 
 > You need to start from somewhere...
